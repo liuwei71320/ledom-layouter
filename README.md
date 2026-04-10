@@ -457,7 +457,7 @@ pytest tests/
 
 - 🐛 **Bug 报告**: [GitHub Issues](https://github.com/liuwei71320/ledom-layouter/issues)
 - 💬 **讨论**: [GitHub Discussions](https://github.com/liuwei71320/ledom-layouter/discussions)
-- 📧 **邮件**: liuwei71320@example.com
+- 📧 **邮件**: liuwei71320@gmail.com
 
 ---
 
@@ -933,7 +933,7 @@ Thanks to these open-source projects:
 
 - 🐛 **Bug Report**: [GitHub Issues](https://github.com/liuwei71320/ledom-layouter/issues)
 - 💬 **Discussion**: [GitHub Discussions](https://github.com/liuwei71320/ledom-layouter/discussions)
-- 📧 **Email**: liuwei71320@example.com
+- 📧 **Email**: liuwei71320@gmail.com
 
 ---
 
