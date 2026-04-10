@@ -1,0 +1,45 @@
+# =================================================================
+# Ledom Layouter - Project Ignore Configuration
+# Designed for Version v1.3.0 | AI Solutions Architect
+# =================================================================
+
+### --- Python Core ---
+# 自动生成的字节码缓存，剔除冗余
+__pycache__/
+*.py[cod]
+*$py.class
+
+### --- Environment & Virtual Environments ---
+# 隔离开发环境，不提交至仓库
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+share/
+
+### --- Streamlit & Web Internal ---
+# 隐藏 Streamlit 运行时的本地配置与凭证
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+### --- Application Output (Redundant Files) ---
+# 剔除运行期间生成的临时 Word 文档
+Ledom_Layouter_*.docx
+*.tmp
+*.log
+
+### --- OS Metadata ---
+# 剔除操作系统生成的索引文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### --- Development Tools ---
+# 隐藏 IDE 局部的特定配置
+.vscode/
+.idea/
+.RooCode/
+.clinerules

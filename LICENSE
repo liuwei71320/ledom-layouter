@@ -1,0 +1,392 @@
+MIT License
+
+Copyright (c) 2024 Wei Liu (liuwei71320)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 简体中文翻译版本 (Chinese Translation)
+
+MIT 许可证
+
+版权所有 (c) 2024 刘伟 (liuwei71320)
+
+特此免费授予任何获得本软件及其相关文档文件（以下简称"软件"）副本的人，
+无限制地处理本软件的权利，包括但不限于使用、复制、修改、合并、发布、
+散发、再授权和/或销售本软件副本的权利，以及允许被提供本软件的人这样做的权利，
+前提是符合以下条件：
+
+上述版权声明和本许可声明应包含在本软件的所有副本或实质性部分中。
+
+本软件按"现状"提供，不带任何形式的明示或默示保证，包括但不限于对适销性、
+特定用途的适用性和非侵权性的保证。在任何情况下，作者或版权持有人都不对
+任何索赔、损害赔偿或其他责任负责，无论是因合同、侵权或其他原因引起的，
+也无论是与本软件或本软件的使用或其他事项有关的。
+
+---
+
+## License FAQ (许可证常见问题)
+
+### 🔍 What does MIT License mean? (MIT许可证意味着什么?)
+
+**English:**
+The MIT License is a permissive open-source license that allows people to:
+- ✅ Use the software freely for any purpose
+- ✅ Copy and modify the software
+- ✅ Distribute the software and modifications
+- ✅ Use the software in commercial projects
+- ✅ Sublicense the software
+
+The only requirement is to include the license and copyright notice.
+
+**中文:**
+MIT许可证是一种宽松的开源许可证，允许人们：
+- ✅ 自由使用该软件
+- ✅ 复制和修改软件
+- ✅ 分发软件和修改版本
+- ✅ 在商业项目中使用软件
+- ✅ 重新授权该软件
+
+唯一的要求是包含许可证和版权声明。
+
+---
+
+### 📋 Can I use Ledom Layouter in my commercial project?
+
+**Answer: YES!** ✅
+
+MIT License explicitly allows commercial use. You can:
+- Build commercial products using Ledom Layouter
+- Integrate it into your SaaS platform
+- Charge money for services using this software
+- Use it in proprietary applications
+
+**Just remember:**
+- Include the LICENSE file in your distribution
+- Include the copyright notice in documentation
+- You may not hold the author liable for issues
+
+---
+
+### 我可以在商业项目中使用 Ledom Layouter 吗?
+
+**答案: 可以!** ✅
+
+MIT许可证明确允许商业使用。您可以：
+- 使用 Ledom Layouter 构建商业产品
+- 将其集成到您的 SaaS 平台
+- 使用该软件销售服务
+- 将其用于专有应用程序
+
+**只需记住:**
+- 在您的发行版中包含 LICENSE 文件
+- 在文档中包含版权声明
+- 您不能对问题追究作者责任
+
+---
+
+### 🤔 Can I modify the software?
+
+**Answer: YES!** ✅
+
+You have full freedom to:
+- Fork the repository
+- Modify the source code
+- Create derivative works
+- Publish your modifications (as long as you include the original license)
+
+---
+
+### 我可以修改该软件吗?
+
+**答案: 可以!** ✅
+
+您可以完全自由地：
+- Fork 代码库
+- 修改源代码
+- 创建衍生作品
+- 发布您的修改（只要您包含原始许可证）
+
+---
+
+### 📣 Must I open-source my derivative work?
+
+**Answer: NO!** ❌
+
+MIT License does NOT require you to:
+- Open-source your modifications
+- Share your derivative work
+- Release your code publicly
+
+You can use modified versions privately or commercially without sharing code.
+
+---
+
+### 我必须开源我的衍生作品吗?
+
+**答案: 不必!** ❌
+
+MIT许可证不要求您：
+- 开源您的修改
+- 分享您的衍生作品
+- 公开发布您的代码
+
+您可以私下或商业性地使用修改后的版本而无需共享代码。
+
+---
+
+### ⚖️ What are the conditions?
+
+**Minimal conditions:**
+
+1. **Include License**: When you distribute the software (source or binary), 
+   include the MIT License text
+
+2. **Include Copyright**: Include the copyright notice:
+   ```
+   Copyright (c) 2024 Wei Liu (liuwei71320)
+   ```
+
+3. **No Liability**: The software is provided "as is" without warranty
+
+---
+
+### ⚖️ 条件是什么?
+
+**最少条件:**
+
+1. **包含许可证**: 当您分发软件（源代码或二进制）时，包含 MIT 许可证文本
+
+2. **包含版权**: 包含版权声明：
+   ```
+   Copyright (c) 2024 Wei Liu (liuwei71320)
+   ```
+
+3. **无责任**: 该软件按"现状"提供，无任何保证
+
+---
+
+### 📂 How to include LICENSE in my project?
+
+**Step 1: Copy the license file**
+```bash
+cp LICENSE /path/to/your/project/
+```
+
+**Step 2: Add to NOTICE or documentation**
+```markdown
+# License
+
+This project includes code from Ledom Layouter which is licensed under the MIT License.
+
+See LICENSE file for details.
+
+Copyright (c) 2024 Wei Liu (liuwei71320)
+```
+
+**Step 3: If modified, consider adding notes**
+```markdown
+# Modified Components
+
+Based on Ledom Layouter v1.2.3
+- Added feature X
+- Modified component Y
+- See original LICENSE for base code
+
+This derivative work is also released under MIT License.
+```
+
+---
+
+### 📂 如何在我的项目中包含 LICENSE?
+
+**步骤 1: 复制许可证文件**
+```bash
+cp LICENSE /path/to/your/project/
+```
+
+**步骤 2: 添加到 NOTICE 或文档中**
+```markdown
+# 许可证
+
+本项目包含来自 Ledom Layouter 的代码，该代码受 MIT 许可证保护。
+
+详见 LICENSE 文件。
+
+版权所有 (c) 2024 刘伟 (liuwei71320)
+```
+
+**步骤 3: 如果修改了代码，考虑添加说明**
+```markdown
+# 修改的组件
+
+基于 Ledom Layouter v1.2.3
+- 添加了功能 X
+- 修改了组件 Y
+- 查看原始 LICENSE 获取基础代码信息
+
+本衍生作品也在 MIT 许可证下发布。
+```
+
+---
+
+### 🔄 Comparison with other licenses
+
+| License | Commercial Use | Modification | Distribution | Patent Use | Liability |
+|---------|---|---|---|---|---|
+| **MIT** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Apache 2.0** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **GPL v3** | ✅ Yes | ✅ Yes | ✅ Must share | ✅ Yes | ❌ No |
+| **BSD 3-Clause** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Proprietary** | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+
+*MIT is one of the most permissive open-source licenses*
+
+---
+
+### 🔄 与其他许可证的比较
+
+| 许可证 | 商业使用 | 修改 | 分发 | 专利使用 | 责任 |
+|---------|---|---|---|---|---|
+| **MIT** | ✅ 是 | ✅ 是 | ✅ 是 | ✅ 是 | ❌ 否 |
+| **Apache 2.0** | ✅ 是 | ✅ 是 | ✅ 是 | ✅ 是 | ❌ 否 |
+| **GPL v3** | ✅ 是 | ✅ 是 | ✅ 必须共享 | ✅ 是 | ❌ 否 |
+| **BSD 3条款** | ✅ 是 | ✅ 是 | ✅ 是 | ✅ 是 | ❌ 否 |
+| **专有** | ❌ 否 | ❌ 否 | ❌ 否 | ❌ 否 | ❌ 否 |
+
+*MIT 是最宽松的开源许可证之一*
+
+---
+
+## 📚 Additional Resources (额外资源)
+
+- **Official MIT License**: https://opensource.org/licenses/MIT
+- **Choose a License**: https://choosealicense.com/licenses/mit/
+- **Open Source Initiative**: https://opensource.org/
+- **Software Licensing Guide**: https://opensource.guide/legal/
+
+---
+
+## 📝 How to reference this license
+
+### In your README.md:
+```markdown
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2024 Wei Liu
+```
+
+### In package metadata (setup.py):
+```python
+setup(
+    name='ledom-layouter',
+    version='1.2.3',
+    license='MIT',
+    author='Wei Liu',
+    author_email='liuwei71320@example.com',
+    url='https://github.com/liuwei71320/ledom-layouter',
+    classifiers=[
+        'License :: OSI Approved :: MIT License',
+        'Programming Language :: Python :: 3.9+',
+    ],
+)
+```
+
+### In your source code headers:
+```python
+"""
+Ledom Layouter v1.2.3
+Copyright (c) 2024 Wei Liu (liuwei71320)
+Licensed under the MIT License.
+See LICENSE file for details.
+"""
+```
+
+---
+
+## ✨ Why MIT License for Ledom Layouter?
+
+**Ledom Layouter** chose MIT License because:
+
+1. **Permissive & Developer-Friendly** 
+   - Minimal restrictions on use
+   - Encourages adoption and contribution
+
+2. **Business-Friendly**
+   - Allows commercial use without complications
+   - Suitable for SaaS and enterprise deployment
+
+3. **Widely Recognized**
+   - One of the most popular open-source licenses
+   - Well-understood by developers globally
+
+4. **Encourages Innovation**
+   - Freedom to modify and build upon
+   - Fosters ecosystem growth
+
+5. **Low Friction**
+   - Simple and short license text
+   - Easy to understand and comply with
+
+---
+
+## 👤 About the Author
+
+**Wei Liu (刘伟)**
+- GitHub: [@liuwei71320](https://github.com/liuwei71320)
+- Email: liuwei71320@example.com
+- Role: AI Solutions Architect & Open Source Developer
+
+Ledom Layouter is part of the **Ledom Series** - a collection of lightweight,
+efficient tools for AI-era productivity and document automation.
+
+---
+
+## 📋 License Changelog
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 2024-01-01 | Initial MIT License adoption |
+| 1.2.3 | 2024-04-09 | Current stable version |
+
+---
+
+## 🤝 Contributing under MIT License
+
+When you contribute to Ledom Layouter, your contributions will be licensed
+under the same MIT License. This means:
+
+- Your contributions remain your own copyright
+- Your contributions will be available under MIT to all users
+- You agree to this by submitting a pull request
+
+---
+
+<div align="center">
+
+**Ledom Layouter is proudly open-source under MIT License**
+
+Made with ❤️ for the developer community
+
+*Distributed under the terms of the MIT License*
+
+</div>

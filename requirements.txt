@@ -1,0 +1,4 @@
+streamlit
+pypandoc
+pyperclip
+pandoc  # 系统级依赖，需额外说明
